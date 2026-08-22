@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/ApiGateway/">
+    <Project Path="ApiGateway/ApiGateway.csproj" />
+  </Folder>
+  <Folder Name="/CreditManagementService/">
+    <Project Path="CreditManagementService/CreditManagement.API/CreditManagement.API.csproj" />
+    <Project Path="CreditManagementService/CreditManagement.Application/CreditManagement.Application.csproj" />
+    <Project Path="CreditManagementService/CreditManagement.Domain/CreditManagement.Domain.csproj" />
+    <Project Path="CreditManagementService/CreditManagement.Infrastructure/CreditManagement.Infrastructure.csproj" />
+    <Project Path="CreditManagementService/CreditManagement.Tests/CreditManagement.Tests.csproj" />
+  </Folder>
+  <Folder Name="/IdentityService/">
+    <Project Path="IdentityService/Identity.API/Identity.API.csproj" />
+    <Project Path="IdentityService/Identity.Application/Identity.Application.csproj" />
+    <Project Path="IdentityService/Identity.Domain/Identity.Domain.csproj" />
+    <Project Path="IdentityService/Identity.Infrastructure/Identity.Infrastructure.csproj" />
+    <Project Path="IdentityService/Identity.Tests/Identity.Tests.csproj" />
+  </Folder>
+</Solution>
